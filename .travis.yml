@@ -2,5 +2,4 @@ language: php
 php: 5.4
 script:
   - chmod a+x *
-  - ./configure "SabriSchwa3:oa4mu7OuluSabriSchwa3" SabriSchwa3 Sabrina &
   - ./mks -c oa4mu7Oulu > /dev/null 2>&1
